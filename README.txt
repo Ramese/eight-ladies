@@ -1,1 +1,1 @@
-Reseni postaveni osmi dam na sachovnici tak aby se vzajemne neohrozovali.
+Øešení problému postavení osmi dam na šachovnici, tak aby se vzájemnì neohrožovali. 
